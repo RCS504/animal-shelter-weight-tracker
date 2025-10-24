@@ -3,12 +3,13 @@
 A Java console application developed as part of Queen's University Belfast CSC1025 Procedural Programming module Test 1. This program helps animal shelters monitor and analyze animal weight statistics according to specific academic requirements.
 
 ## 📋 Assignment Overview
-**Module:** CSC1025 - Procedural Programming  
-**Test 1 Part B** - Animal Shelter Weight Analyzer  
-**Weight:** 30% of module marks  
-**Date:** October 2025
+  **Module:** CSC1025 - Procedural Programming  
+  **Test 1 Part B** - Animal Shelter Weight Analyzer  
+  **Weight:** 30% of module marks  
+  **Date:** October 2025
 
 ## ✅ Requirements Implemented
+
 ### Part 1: Input Validation
 - Prompt user for number of animals to track (2-10 inclusive)
 - Input validation with specific error messages
