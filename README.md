@@ -4,7 +4,7 @@ A Java console application developed as part of Queen's University Belfast CSC10
 
 ## 📋 Assignment Overview
   **Module:** CSC1025 - Procedural Programming  
-  **Test 1 Part B** - Animal Shelter Weight Analyzer  
+  Animal Shelter Weight Analyzer  
 
 ## ✅ Requirements Implemented
 
